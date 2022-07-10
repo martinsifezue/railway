@@ -1,0 +1,43 @@
+body{
+background-color: #A5BECC;
+text-align: center;
+}
+
+
+.container{
+padding: 7% 20%;
+text-align: center;
+width: 300px;
+height: 400px;
+
+margin: auto;
+/* background-image: url("images/download.jpg"); */
+background-repeat: no-repeat;
+}
+
+h2{
+  font-size: 2rem;
+}
+
+.btnn{
+  height: 30px;
+  width: 150px;
+  background-color: green;
+  font-weight: bold;
+}
+
+.save-btn{
+  height: 30px;
+  width: 150px;
+  background-color: red;
+  font-weight: bold;
+}
+
+
+h1{
+font-family: "Noto Serif";
+font-size: 3rem;
+color: #fff;
+font-weight: 400;
+
+}
